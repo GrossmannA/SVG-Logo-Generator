@@ -21,6 +21,9 @@ Inquirer is required for the app, Jest for testing. Open the terminal in the dir
 
 Using inquirer to build out basic shapes and text with colors, creating a simple logo design.
 
+[Watch the Video](https://drive.google.com/file/d/1A-eVZycnLRKQ6srglD_Va_nzFu4VI4ms/view?usp=sharing)
+
+
 # License
 
 This application is covered under the following license:
